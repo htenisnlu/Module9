@@ -1,6 +1,6 @@
-# Python Programs
+# Python Programs for Module 9: Lab Activity
 
-This repository contains four Python programs, each solving a different problem using loops. Below is a description of each problem and the corresponding solution.
+This repository contains Python programs developed as part of Module 9 Lab Activity. Each program is designed to solve specific problems and demonstrate the use of various Python features and modules. Below are the details of each program, including their purpose, implementation, and example outputs.
 
 ## Problem 1: Infinite Loop
 
